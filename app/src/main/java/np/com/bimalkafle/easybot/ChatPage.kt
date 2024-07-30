@@ -171,11 +171,11 @@ fun AppHeader() {
     Box(
         modifier = Modifier
             .fillMaxWidth()
-            .background(Color.Magenta)
+            .background(Color.Red)
     ) {
         Text(
             modifier = Modifier.padding(16.dp),
-            text = "ChatBot",
+            text = "chatbot application",
             color = Color.White,
             fontSize = 22.sp
         )
