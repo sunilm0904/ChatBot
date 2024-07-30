@@ -171,7 +171,7 @@ fun AppHeader() {
     Box(
         modifier = Modifier
             .fillMaxWidth()
-            .background(Color.Red)
+            .background(Color.Green)
     ) {
         Text(
             modifier = Modifier.padding(16.dp),
